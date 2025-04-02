@@ -51,6 +51,16 @@ Com essa solução, foi possível otimizar processos, eliminar tarefas manuais e
 💡 Contribuições e melhorias são bem-vindas!
 
 ## 📩 Contato
+
+Se tiver dúvidas ou quiser sugerir melhorias, entre em contato:
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henriqueanalista.ads@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/henriqueferreira-ofc)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henriqueferreira-ofc/)
+
+
+
+## 📩 Contato
 Se tiver dúvidas ou quiser sugerir melhorias, entre em contato via: 📧 Email: [henriqueanalista.ads@gmail.com] 🐙 GitHub: [https://github.com/henriqueferreira-ofc] 🔗 LinkedIn: [https://www.linkedin.com/in/henriqueferreira-ofc/]
 
 ⭐ **Se este projeto foi útil para você, deixe uma estrela no repositório!**  
