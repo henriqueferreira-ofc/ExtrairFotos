@@ -53,6 +53,8 @@ Com essa solução, foi possível otimizar processos, eliminar tarefas manuais e
 ## 📩 Contato
 Se tiver dúvidas ou quiser sugerir melhorias, entre em contato via: 📧 Email: [Seu Email] 🐙 GitHub: [Seu GitHub] 🔗 LinkedIn: [Seu LinkedIn]
 
+⭐ **Se este projeto foi útil para você, deixe uma estrela no repositório!**  
+📌 Basta clicar no botão **"Star"** no topo da página!  
 
 **💬 Deixe seu feedback na seção de [Issues](https://github.com/henriqueferreira-ofc/ExtrairFotos/issues)!**
 
