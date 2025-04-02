@@ -51,7 +51,7 @@ Com essa solução, foi possível otimizar processos, eliminar tarefas manuais e
 💡 Contribuições e melhorias são bem-vindas!
 
 ## 📩 Contato
-Se tiver dúvidas ou quiser sugerir melhorias, entre em contato via: 📧 Email: [Seu Email] 🐙 GitHub: [Seu GitHub] 🔗 LinkedIn: [Seu LinkedIn]
+Se tiver dúvidas ou quiser sugerir melhorias, entre em contato via: 📧 Email: [henriqueanalista.ads@gmail.com] 🐙 GitHub: [https://github.com/henriqueferreira-ofc] 🔗 LinkedIn: [https://www.linkedin.com/in/henriqueferreira-ofc/]
 
 ⭐ **Se este projeto foi útil para você, deixe uma estrela no repositório!**  
 📌 Basta clicar no botão **"Star"** no topo da página!  
