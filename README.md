@@ -58,7 +58,7 @@ Se tiver dúvidas ou quiser sugerir melhorias, entre em contato:
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/henriqueferreira-ofc)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henriqueferreira-ofc/)
 
-# ⭐ **Se este projeto foi útil para você, deixe uma estrela no repositório!**  
+### ⭐ **Se este projeto foi útil para você, deixe uma estrela no repositório!**  
 📌 Basta clicar no botão **"Star"** no topo da página!  
 
 **💬 Deixe seu feedback na seção de [Issues](https://github.com/henriqueferreira-ofc/ExtrairFotos/issues)!**
